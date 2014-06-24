@@ -1,0 +1,6 @@
+Reads in a csv file with three columns:
+Number in Party, Time of Tour, Date
+
+To run, put a csv file and text file in the same directory and the script will prompt for the input and output files.
+
+Questions: ajsun@princeton.edu
